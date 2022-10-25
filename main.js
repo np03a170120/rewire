@@ -4,7 +4,7 @@ let author = document.getElementById("author");
 let generate = document.getElementById("generate_btn");
 
 // store url in the variable
-let url = "https://api.quotable.io/random?tags=love|happiness";
+let url = "https://api.quotable.io/random";
 
 // make a function that extract data from  api
 
