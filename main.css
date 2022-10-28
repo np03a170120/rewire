@@ -7,8 +7,17 @@
 
 .content {
     margin: auto 10%;
+    text-align: center;
 }
 
 body {
-    font-family: "David Libre";
+    font-family: "Rufina";
+    background: #ececec;
+}
+
+button#generate {
+    background: black;
+    padding: 8px 24px;
+    border-radius: 0;
+    color: whitesmoke;
 }
